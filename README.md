@@ -1,3 +1,3 @@
 # endrelaszlo.github.io
 
-Check
+This is the repo for the page endrelaszlo.github.io
